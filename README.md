@@ -1,6 +1,6 @@
 # Projeto de Teste Frontend VR
 
-Os testes vão ser executados através da ferranenta Cypress, para mais detalhes sobre a instalação da mesma e de outros requisitos, clique [here](https://docs.cypress.io/app/get-started/install-cypress).
+Os testes vão ser executados através da ferramenta Cypress, para mais detalhes sobre a instalação da mesma e de outros requisitos, clique [here](https://docs.cypress.io/app/get-started/install-cypress).
 
 Após instalação do Cypress, seguir com os passos abaixo.
 
